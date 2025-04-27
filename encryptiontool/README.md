@@ -17,6 +17,6 @@ A simple GUI tool to encrypt and decrypt passwords, created using Python's Tkint
 ### Steps to Install and Run:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/password-encryption-tool.git
-   cd password-encryption-tool
+   git clone https://github.com/klenhoster/passwordenc.git
+   cd passwordenc
 2. python klenmanager.py
